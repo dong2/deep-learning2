@@ -1,0 +1,5 @@
+imageNet for image recognition,
+detectNet for object detection,
+segNet for semantic segmentation,
+poseNet for pose estimation inherit from the shared tensorNet objectn,
+movenet for Joint Profile Prediction Across Variable Walking Speeds and Slopes.
